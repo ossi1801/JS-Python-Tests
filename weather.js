@@ -20,6 +20,4 @@ for (let i = 2; i < 5; i++) {
 console.log("Weather:" +weather+" " + day+" päivä:"+high+" yö:"+low)
 }
 
-
-
 });
